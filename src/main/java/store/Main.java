@@ -16,11 +16,11 @@ public class Main {
 	public static void main(String[] args) {
 		
 		CD cd=new CD();
-		cd.setTitle("Mitar Novo");
+		cd.setTitle("");
 		cd.setPrice(20.5f);
-		cd.setDescription("Narodnjaci");
-		cd.setMusicCompany("CD RECORDS");
-		cd.setNumberOfCDs(21);
+		cd.setDescription("Strana");
+		cd.setMusicCompany("MTV");
+		cd.setNumberOfCDs(211);
 		cd.setTotalDuration(149f);
 		cd.setGenre("POP");
 		

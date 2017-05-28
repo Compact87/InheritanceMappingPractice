@@ -8,6 +8,7 @@ import javax.persistence.*;
  * Entity implementation class for Entity: CD
  *
  */
+@EntityListeners(DataValidationListener.class)
 @Entity
 @DiscriminatorValue("C")
 public class CD extends Item {
