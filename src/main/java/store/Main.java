@@ -16,7 +16,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		CD cd=new CD();
-		cd.setTitle("");
+		cd.setTitle("Happy");
 		cd.setPrice(20.5f);
 		cd.setDescription("Strana");
 		cd.setMusicCompany("MTV");
