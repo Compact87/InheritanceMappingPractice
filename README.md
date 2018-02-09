@@ -1,3 +1,3 @@
-# InheritanceMappingPractice
+# InheritanceMapping
  maven
 Mysql database connection
